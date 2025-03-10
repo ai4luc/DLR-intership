@@ -1,3 +1,4 @@
+![image](imgs/phd_days.jpeg)
 # PhD Days do Instituto de Microondas e Radar (MR) do DLR
 
 O **PhD Days**, evento anual do Instituto de Microondas e Radar (MR) do *Deutsches Zentrum für Luft- und Raumfahrt* (DLR, Centro Aeroespacial Alemão), ocorreu entre os dias 15 e 18 de outubro de 2024. O evento contou com a presença de pesquisadores e do diretor do instituto, além de todos os alunos de doutorado, que apresentaram os principais resultados de suas pesquisas e o status atual de seus projetos.
